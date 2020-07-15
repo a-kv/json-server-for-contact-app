@@ -1,0 +1,36 @@
+{
+  "contactsList": [
+    {
+      "title": "Marina",
+      "tel": "88002000600",
+      "id": 1
+    },
+    {
+      "title": "Tolik",
+      "tel": "222225555",
+      "id": 2
+    },
+    {
+      "title": "Gendelf",
+      "id": 3,
+      "tel": "43646343"
+    },
+    {
+      "title": "Platon",
+      "id": 4,
+      "tel": "68568568"
+    },
+    {
+      "title": "Sasha",
+      "id": 5,
+      "tel": "3463463463"
+    }
+  ],
+  "login": [
+    {
+      "email": "test@gmail.com",
+      "password": "test",
+      "id": 1
+    }
+  ]
+}
